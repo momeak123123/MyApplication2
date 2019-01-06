@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">城市指南</string>
+    <string name="City">上海</string>
+    <string name="City_e">ShangHai</string>
+    <string name="temperature">30℃</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="agent_addr">地址：%1$s</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="gpsNotifyMsg">当前应用需要打开定位功能。\n\n请点击\"设置\"-\"定位服务\"-打开定位功能。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="share">share</string>
+    <string name="sharetxt">share_text</string>
+</resources>
